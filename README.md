@@ -1,2 +1,2 @@
 # prueba
-Este es un repositorio nuevo creado como prueba del modulo 2
+este proyexto es una pruba de como crear un repostiroio y clonarlo desde github, creado por Evelyn Muñetones a sus 22 años de edad 
